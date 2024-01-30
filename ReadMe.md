@@ -108,8 +108,8 @@ id: Albania
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Albania//
-markerFolder: ./Albania//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Albania] 
