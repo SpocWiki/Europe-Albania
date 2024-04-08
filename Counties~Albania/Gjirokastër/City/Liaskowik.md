@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.22] 
-[geo-lat::40.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.22] 
+[has_place_latitude::40.18] 
 [name::Liaskowik] 
 State ::  
 Country :: [[Albania]]  

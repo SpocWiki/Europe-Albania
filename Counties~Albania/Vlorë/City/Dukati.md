@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.55] 
-[geo-lat::40.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.55] 
+[has_place_latitude::40.27] 
 [name::Dukati] 
 State ::  
 Country :: [[Albania]]  

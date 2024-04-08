@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.47] 
-[geo-lat::40.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.47] 
+[has_place_latitude::40.65] 
 [name::Mifoli] 
 State ::  
 Country :: [[Albania]]  

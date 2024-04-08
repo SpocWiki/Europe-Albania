@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.07] 
-[geo-lat::41.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.07] 
+[has_place_latitude::41.13] 
 [name::Elbasan] 
 State ::  
 Country :: [[Albania]]  

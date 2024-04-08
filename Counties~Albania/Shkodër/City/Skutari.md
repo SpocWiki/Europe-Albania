@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.5] 
-[geo-lat::42.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.5] 
+[has_place_latitude::42.05] 
 [name::Skutari] 
 State ::  
 Country :: [[Albania]]  

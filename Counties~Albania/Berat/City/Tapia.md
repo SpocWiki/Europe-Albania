@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.92] 
-[geo-lat::40.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.92] 
+[has_place_latitude::40.78] 
 [name::Tapia] 
 State ::  
 Country :: [[Albania]]  

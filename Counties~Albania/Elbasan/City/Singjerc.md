@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.17] 
-[geo-lat::41.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.17] 
+[has_place_latitude::41.28] 
 [name::Singjerc] 
 State ::  
 Country :: [[Albania]]  

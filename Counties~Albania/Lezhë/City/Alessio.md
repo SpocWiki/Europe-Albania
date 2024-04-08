@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.68] 
-[geo-lat::41.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.68] 
+[has_place_latitude::41.8] 
 [name::Alessio] 
 State ::  
 Country :: [[Albania]]  

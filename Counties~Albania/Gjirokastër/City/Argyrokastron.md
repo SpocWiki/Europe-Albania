@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.17] 
-[geo-lat::40.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.17] 
+[has_place_latitude::40.07] 
 [name::Argyrokastron] 
 State ::  
 Country :: [[Albania]]  
