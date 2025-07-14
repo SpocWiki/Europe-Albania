@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Argyrokastron.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityArgyrokastron.public.md) 
+### [Argyrokastron](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Argyrokastron.md) 
 
-### [Argyrokastron.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityArgyrokastron.internal.md) 
+### [Argyrokastron.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Argyrokastron.public.md) 
 
-### [Argyrokastron.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityArgyrokastron.protect.md) 
+### [Argyrokastron.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Argyrokastron.internal.md) 
 
-### [Argyrokastron.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityArgyrokastron.private.md) 
+### [Argyrokastron.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Argyrokastron.protect.md) 
 
-### [Argyrokastron.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityArgyrokastron.personal.md) 
+### [Argyrokastron.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Argyrokastron.private.md) 
 
-### [Argyrokastron.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityArgyrokastron.secret.md)
+### [Argyrokastron.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Argyrokastron.personal.md) 
+
+### [Argyrokastron.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Argyrokastron.secret.md)
 

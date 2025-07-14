@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schiak.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CitySchiak.public.md) 
+### [Schiak](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Schiak.md) 
 
-### [Schiak.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CitySchiak.internal.md) 
+### [Schiak.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Schiak.public.md) 
 
-### [Schiak.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CitySchiak.protect.md) 
+### [Schiak.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Schiak.internal.md) 
 
-### [Schiak.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CitySchiak.private.md) 
+### [Schiak.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Schiak.protect.md) 
 
-### [Schiak.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CitySchiak.personal.md) 
+### [Schiak.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Schiak.private.md) 
 
-### [Schiak.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CitySchiak.secret.md)
+### [Schiak.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Schiak.personal.md) 
+
+### [Schiak.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Schiak.secret.md)
 

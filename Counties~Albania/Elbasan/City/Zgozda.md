@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zgozda.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.public.md) 
+### [Zgozda](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.md) 
 
-### [Zgozda.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.internal.md) 
+### [Zgozda.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.public.md) 
 
-### [Zgozda.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.protect.md) 
+### [Zgozda.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.internal.md) 
 
-### [Zgozda.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.private.md) 
+### [Zgozda.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.protect.md) 
 
-### [Zgozda.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.personal.md) 
+### [Zgozda.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.private.md) 
 
-### [Zgozda.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.secret.md)
+### [Zgozda.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.personal.md) 
+
+### [Zgozda.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.secret.md)
 

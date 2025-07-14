@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Durazzo.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\CityDurazzo.public.md) 
+### [Durazzo](/_Standards/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.md) 
 
-### [Durazzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\CityDurazzo.internal.md) 
+### [Durazzo.public](/_public/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.public.md) 
 
-### [Durazzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\CityDurazzo.protect.md) 
+### [Durazzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.internal.md) 
 
-### [Durazzo.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\CityDurazzo.private.md) 
+### [Durazzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.protect.md) 
 
-### [Durazzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\CityDurazzo.personal.md) 
+### [Durazzo.private](/_private/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.private.md) 
 
-### [Durazzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\CityDurazzo.secret.md)
+### [Durazzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.personal.md) 
+
+### [Durazzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.secret.md)
 

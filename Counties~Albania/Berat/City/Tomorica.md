@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tomorica.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTomorica.public.md) 
+### [Tomorica](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.md) 
 
-### [Tomorica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTomorica.internal.md) 
+### [Tomorica.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.public.md) 
 
-### [Tomorica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTomorica.protect.md) 
+### [Tomorica.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.internal.md) 
 
-### [Tomorica.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTomorica.private.md) 
+### [Tomorica.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.protect.md) 
 
-### [Tomorica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTomorica.personal.md) 
+### [Tomorica.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.private.md) 
 
-### [Tomorica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTomorica.secret.md)
+### [Tomorica.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.personal.md) 
+
+### [Tomorica.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.secret.md)
 

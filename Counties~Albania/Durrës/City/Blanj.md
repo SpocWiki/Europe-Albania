@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blanj.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityBlanj.public.md) 
+### [Blanj](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.md) 
 
-### [Blanj.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityBlanj.internal.md) 
+### [Blanj.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.public.md) 
 
-### [Blanj.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityBlanj.protect.md) 
+### [Blanj.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.internal.md) 
 
-### [Blanj.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityBlanj.private.md) 
+### [Blanj.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.protect.md) 
 
-### [Blanj.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityBlanj.personal.md) 
+### [Blanj.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.private.md) 
 
-### [Blanj.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityBlanj.secret.md)
+### [Blanj.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.personal.md) 
+
+### [Blanj.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.secret.md)
 

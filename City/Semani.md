@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Semani.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\CitySemani.public.md) 
+### [Semani](/_Standards/Earth/Continent/Europe/Europe~South/Albania/City/Semani.md) 
 
-### [Semani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\CitySemani.internal.md) 
+### [Semani.public](/_public/Earth/Continent/Europe/Europe~South/Albania/City/Semani.public.md) 
 
-### [Semani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\CitySemani.protect.md) 
+### [Semani.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/City/Semani.internal.md) 
 
-### [Semani.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\CitySemani.private.md) 
+### [Semani.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/City/Semani.protect.md) 
 
-### [Semani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\CitySemani.personal.md) 
+### [Semani.private](/_private/Earth/Continent/Europe/Europe~South/Albania/City/Semani.private.md) 
 
-### [Semani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\CitySemani.secret.md)
+### [Semani.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/City/Semani.personal.md) 
+
+### [Semani.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/City/Semani.secret.md)
 

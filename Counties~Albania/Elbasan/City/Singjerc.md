@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Singjerc.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CitySingjerc.public.md) 
+### [Singjerc](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Singjerc.md) 
 
-### [Singjerc.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CitySingjerc.internal.md) 
+### [Singjerc.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Singjerc.public.md) 
 
-### [Singjerc.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CitySingjerc.protect.md) 
+### [Singjerc.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Singjerc.internal.md) 
 
-### [Singjerc.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CitySingjerc.private.md) 
+### [Singjerc.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Singjerc.protect.md) 
 
-### [Singjerc.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CitySingjerc.personal.md) 
+### [Singjerc.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Singjerc.private.md) 
 
-### [Singjerc.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CitySingjerc.secret.md)
+### [Singjerc.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Singjerc.personal.md) 
+
+### [Singjerc.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Singjerc.secret.md)
 

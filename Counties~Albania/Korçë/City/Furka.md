@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Furka.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityFurka.public.md) 
+### [Furka](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.md) 
 
-### [Furka.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityFurka.internal.md) 
+### [Furka.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.public.md) 
 
-### [Furka.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityFurka.protect.md) 
+### [Furka.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.internal.md) 
 
-### [Furka.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityFurka.private.md) 
+### [Furka.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.protect.md) 
 
-### [Furka.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityFurka.personal.md) 
+### [Furka.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.private.md) 
 
-### [Furka.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityFurka.secret.md)
+### [Furka.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.personal.md) 
+
+### [Furka.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.secret.md)
 

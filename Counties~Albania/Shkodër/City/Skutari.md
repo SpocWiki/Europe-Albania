@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skutari.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Shkodër\CitySkutari.public.md) 
+### [Skutari](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.md) 
 
-### [Skutari.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Shkodër\CitySkutari.internal.md) 
+### [Skutari.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.public.md) 
 
-### [Skutari.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Shkodër\CitySkutari.protect.md) 
+### [Skutari.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.internal.md) 
 
-### [Skutari.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Shkodër\CitySkutari.private.md) 
+### [Skutari.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.protect.md) 
 
-### [Skutari.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Shkodër\CitySkutari.personal.md) 
+### [Skutari.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.private.md) 
 
-### [Skutari.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Shkodër\CitySkutari.secret.md)
+### [Skutari.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.personal.md) 
+
+### [Skutari.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.secret.md)
 

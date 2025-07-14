@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moskopole.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityMoskopole.public.md) 
+### [Moskopole](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Moskopole.md) 
 
-### [Moskopole.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityMoskopole.internal.md) 
+### [Moskopole.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Moskopole.public.md) 
 
-### [Moskopole.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityMoskopole.protect.md) 
+### [Moskopole.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Moskopole.internal.md) 
 
-### [Moskopole.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityMoskopole.private.md) 
+### [Moskopole.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Moskopole.protect.md) 
 
-### [Moskopole.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityMoskopole.personal.md) 
+### [Moskopole.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Moskopole.private.md) 
 
-### [Moskopole.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityMoskopole.secret.md)
+### [Moskopole.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Moskopole.personal.md) 
+
+### [Moskopole.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Moskopole.secret.md)
 

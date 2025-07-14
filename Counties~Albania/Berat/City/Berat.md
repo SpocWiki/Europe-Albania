@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Berat.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityBerat.public.md) 
+### [Berat](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Berat.md) 
 
-### [Berat.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityBerat.internal.md) 
+### [Berat.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Berat.public.md) 
 
-### [Berat.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityBerat.protect.md) 
+### [Berat.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Berat.internal.md) 
 
-### [Berat.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityBerat.private.md) 
+### [Berat.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Berat.protect.md) 
 
-### [Berat.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityBerat.personal.md) 
+### [Berat.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Berat.private.md) 
 
-### [Berat.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityBerat.secret.md)
+### [Berat.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Berat.personal.md) 
+
+### [Berat.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Berat.secret.md)
 

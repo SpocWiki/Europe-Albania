@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pekinje.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityPekinje.public.md) 
+### [Pekinje](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Pekinje.md) 
 
-### [Pekinje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityPekinje.internal.md) 
+### [Pekinje.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Pekinje.public.md) 
 
-### [Pekinje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityPekinje.protect.md) 
+### [Pekinje.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Pekinje.internal.md) 
 
-### [Pekinje.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityPekinje.private.md) 
+### [Pekinje.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Pekinje.protect.md) 
 
-### [Pekinje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityPekinje.personal.md) 
+### [Pekinje.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Pekinje.private.md) 
 
-### [Pekinje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityPekinje.secret.md)
+### [Pekinje.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Pekinje.personal.md) 
+
+### [Pekinje.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Pekinje.secret.md)
 

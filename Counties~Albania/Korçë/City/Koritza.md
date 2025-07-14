@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koritza.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityKoritza.public.md) 
+### [Koritza](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.md) 
 
-### [Koritza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityKoritza.internal.md) 
+### [Koritza.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.public.md) 
 
-### [Koritza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityKoritza.protect.md) 
+### [Koritza.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.internal.md) 
 
-### [Koritza.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityKoritza.private.md) 
+### [Koritza.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.protect.md) 
 
-### [Koritza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityKoritza.personal.md) 
+### [Koritza.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.private.md) 
 
-### [Koritza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Korçë\CityKoritza.secret.md)
+### [Koritza.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.personal.md) 
+
+### [Koritza.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Berat/
 
 ## Confidential Links & Embeds: 
 
-### [Berat.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaBerat.public.md) 
+### [Berat](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat.md) 
 
-### [Berat.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaBerat.internal.md) 
+### [Berat.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat.public.md) 
 
-### [Berat.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaBerat.protect.md) 
+### [Berat.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat.internal.md) 
 
-### [Berat.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaBerat.private.md) 
+### [Berat.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat.protect.md) 
 
-### [Berat.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaBerat.personal.md) 
+### [Berat.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat.private.md) 
 
-### [Berat.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaBerat.secret.md)
+### [Berat.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat.personal.md) 
+
+### [Berat.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat.secret.md)
 

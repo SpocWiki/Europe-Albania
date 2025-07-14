@@ -41,15 +41,17 @@ markerFolder: ./Durrës/
 
 ## Confidential Links & Embeds: 
 
-### [Durrës.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDurrës.public.md) 
+### [Durrës](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës.md) 
 
-### [Durrës.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDurrës.internal.md) 
+### [Durrës.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës.public.md) 
 
-### [Durrës.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDurrës.protect.md) 
+### [Durrës.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës.internal.md) 
 
-### [Durrës.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDurrës.private.md) 
+### [Durrës.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës.protect.md) 
 
-### [Durrës.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDurrës.personal.md) 
+### [Durrës.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës.private.md) 
 
-### [Durrës.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDurrës.secret.md)
+### [Durrës.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës.personal.md) 
+
+### [Durrës.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës.secret.md)
 

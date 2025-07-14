@@ -41,15 +41,17 @@ markerFolder: ./Lezhë/
 
 ## Confidential Links & Embeds: 
 
-### [Lezhë.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaLezhë.public.md) 
+### [Lezhë](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë.md) 
 
-### [Lezhë.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaLezhë.internal.md) 
+### [Lezhë.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë.public.md) 
 
-### [Lezhë.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaLezhë.protect.md) 
+### [Lezhë.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë.internal.md) 
 
-### [Lezhë.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaLezhë.private.md) 
+### [Lezhë.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë.protect.md) 
 
-### [Lezhë.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaLezhë.personal.md) 
+### [Lezhë.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë.private.md) 
 
-### [Lezhë.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaLezhë.secret.md)
+### [Lezhë.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë.personal.md) 
+
+### [Lezhë.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë.secret.md)
 

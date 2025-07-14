@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kravasta.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityKravasta.public.md) 
+### [Kravasta](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.md) 
 
-### [Kravasta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityKravasta.internal.md) 
+### [Kravasta.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.public.md) 
 
-### [Kravasta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityKravasta.protect.md) 
+### [Kravasta.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.internal.md) 
 
-### [Kravasta.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityKravasta.private.md) 
+### [Kravasta.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.protect.md) 
 
-### [Kravasta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityKravasta.personal.md) 
+### [Kravasta.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.private.md) 
 
-### [Kravasta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityKravasta.secret.md)
+### [Kravasta.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.personal.md) 
+
+### [Kravasta.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.secret.md)
 

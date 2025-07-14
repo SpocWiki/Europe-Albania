@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alessio.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Lezhë\CityAlessio.public.md) 
+### [Alessio](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë/City/Alessio.md) 
 
-### [Alessio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Lezhë\CityAlessio.internal.md) 
+### [Alessio.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë/City/Alessio.public.md) 
 
-### [Alessio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Lezhë\CityAlessio.protect.md) 
+### [Alessio.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë/City/Alessio.internal.md) 
 
-### [Alessio.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Lezhë\CityAlessio.private.md) 
+### [Alessio.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë/City/Alessio.protect.md) 
 
-### [Alessio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Lezhë\CityAlessio.personal.md) 
+### [Alessio.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë/City/Alessio.private.md) 
 
-### [Alessio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Lezhë\CityAlessio.secret.md)
+### [Alessio.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë/City/Alessio.personal.md) 
+
+### [Alessio.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Lezhë/City/Alessio.secret.md)
 
