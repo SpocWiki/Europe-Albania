@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Tirana|Tirana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Tirana.public|Tirana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Tirana.internal|Tirana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Tirana.protect|Tirana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Tirana.private|Tirana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Tirana.personal|Tirana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Tirana.secret|Tirana.secret]] 
+
+### [Tirana.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityTirana.public.md) 
+
+### [Tirana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityTirana.internal.md) 
+
+### [Tirana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityTirana.protect.md) 
+
+### [Tirana.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityTirana.private.md) 
+
+### [Tirana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityTirana.personal.md) 
+
+### [Tirana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityTirana.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Delvinon|Delvinon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Delvinon.public|Delvinon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Delvinon.internal|Delvinon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Delvinon.protect|Delvinon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Delvinon.private|Delvinon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Delvinon.personal|Delvinon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Delvinon.secret|Delvinon.secret]] 
+
+### [Delvinon.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityDelvinon.public.md) 
+
+### [Delvinon.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityDelvinon.internal.md) 
+
+### [Delvinon.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityDelvinon.protect.md) 
+
+### [Delvinon.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityDelvinon.private.md) 
+
+### [Delvinon.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityDelvinon.personal.md) 
+
+### [Delvinon.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityDelvinon.secret.md)
+

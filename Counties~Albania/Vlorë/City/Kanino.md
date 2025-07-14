@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Kanino|Kanino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Kanino.public|Kanino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Kanino.internal|Kanino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Kanino.protect|Kanino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Kanino.private|Kanino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Kanino.personal|Kanino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Kanino.secret|Kanino.secret]] 
+
+### [Kanino.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityKanino.public.md) 
+
+### [Kanino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityKanino.internal.md) 
+
+### [Kanino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityKanino.protect.md) 
+
+### [Kanino.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityKanino.private.md) 
+
+### [Kanino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityKanino.personal.md) 
+
+### [Kanino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityKanino.secret.md)
+

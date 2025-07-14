@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Premeti|Premeti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Premeti.public|Premeti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Premeti.internal|Premeti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Premeti.protect|Premeti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Premeti.private|Premeti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Premeti.personal|Premeti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Premeti.secret|Premeti.secret]] 
+
+### [Premeti.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityPremeti.public.md) 
+
+### [Premeti.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityPremeti.internal.md) 
+
+### [Premeti.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityPremeti.protect.md) 
+
+### [Premeti.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityPremeti.private.md) 
+
+### [Premeti.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityPremeti.personal.md) 
+
+### [Premeti.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityPremeti.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Dibër/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër|Dibër]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.public|Dibër.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.internal|Dibër.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.protect|Dibër.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.private|Dibër.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.personal|Dibër.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.secret|Dibër.secret]] 
+
+### [Dibër.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDibër.public.md) 
+
+### [Dibër.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDibër.internal.md) 
+
+### [Dibër.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDibër.protect.md) 
+
+### [Dibër.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDibër.private.md) 
+
+### [Dibër.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDibër.personal.md) 
+
+### [Dibër.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaDibër.secret.md)
 

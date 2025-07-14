@@ -40,11 +40,16 @@ markerFolder: ./Kukës/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Kukës|Kukës]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Kukës.public|Kukës.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Kukës.internal|Kukës.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Kukës.protect|Kukës.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Kukës.private|Kukës.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Kukës.personal|Kukës.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Kukës.secret|Kukës.secret]] 
+
+### [Kukës.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKukës.public.md) 
+
+### [Kukës.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKukës.internal.md) 
+
+### [Kukës.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKukës.protect.md) 
+
+### [Kukës.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKukës.private.md) 
+
+### [Kukës.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKukës.personal.md) 
+
+### [Kukës.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKukës.secret.md)
 

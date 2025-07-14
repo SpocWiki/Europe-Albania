@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Fjeri|Fjeri]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Fjeri.public|Fjeri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Fjeri.internal|Fjeri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Fjeri.protect|Fjeri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Fjeri.private|Fjeri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Fjeri.personal|Fjeri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Fjeri.secret|Fjeri.secret]] 
+
+### [Fjeri.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityFjeri.public.md) 
+
+### [Fjeri.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityFjeri.internal.md) 
+
+### [Fjeri.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityFjeri.protect.md) 
+
+### [Fjeri.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityFjeri.private.md) 
+
+### [Fjeri.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityFjeri.personal.md) 
+
+### [Fjeri.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityFjeri.secret.md)
+

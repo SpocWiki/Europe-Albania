@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Kavaja|Kavaja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Kavaja.public|Kavaja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Kavaja.internal|Kavaja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Kavaja.protect|Kavaja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Kavaja.private|Kavaja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Kavaja.personal|Kavaja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Kavaja.secret|Kavaja.secret]] 
+
+### [Kavaja.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKavaja.public.md) 
+
+### [Kavaja.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKavaja.internal.md) 
+
+### [Kavaja.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKavaja.protect.md) 
+
+### [Kavaja.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKavaja.private.md) 
+
+### [Kavaja.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKavaja.personal.md) 
+
+### [Kavaja.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKavaja.secret.md)
+

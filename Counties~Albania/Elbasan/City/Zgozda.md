@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Zgozda|Zgozda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Zgozda.public|Zgozda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Zgozda.internal|Zgozda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Zgozda.protect|Zgozda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Zgozda.private|Zgozda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Zgozda.personal|Zgozda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Zgozda.secret|Zgozda.secret]] 
+
+### [Zgozda.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.public.md) 
+
+### [Zgozda.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.internal.md) 
+
+### [Zgozda.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.protect.md) 
+
+### [Zgozda.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.private.md) 
+
+### [Zgozda.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.personal.md) 
+
+### [Zgozda.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityZgozda.secret.md)
+

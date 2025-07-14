@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Stipanj|Stipanj]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Stipanj.public|Stipanj.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Stipanj.internal|Stipanj.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Stipanj.protect|Stipanj.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Stipanj.private|Stipanj.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Stipanj.personal|Stipanj.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Stipanj.secret|Stipanj.secret]] 
+
+### [Stipanj.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityStipanj.public.md) 
+
+### [Stipanj.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityStipanj.internal.md) 
+
+### [Stipanj.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityStipanj.protect.md) 
+
+### [Stipanj.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityStipanj.private.md) 
+
+### [Stipanj.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityStipanj.personal.md) 
+
+### [Stipanj.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityStipanj.secret.md)
+

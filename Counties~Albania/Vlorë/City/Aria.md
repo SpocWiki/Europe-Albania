@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Aria|Aria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Aria.public|Aria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Aria.internal|Aria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Aria.protect|Aria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Aria.private|Aria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Aria.personal|Aria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Aria.secret|Aria.secret]] 
+
+### [Aria.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityAria.public.md) 
+
+### [Aria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityAria.internal.md) 
+
+### [Aria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityAria.protect.md) 
+
+### [Aria.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityAria.private.md) 
+
+### [Aria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityAria.personal.md) 
+
+### [Aria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityAria.secret.md)
+

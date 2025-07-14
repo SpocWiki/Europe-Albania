@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Mifoli|Mifoli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Mifoli.public|Mifoli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Mifoli.internal|Mifoli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Mifoli.protect|Mifoli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Mifoli.private|Mifoli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Mifoli.personal|Mifoli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Mifoli.secret|Mifoli.secret]] 
+
+### [Mifoli.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityMifoli.public.md) 
+
+### [Mifoli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityMifoli.internal.md) 
+
+### [Mifoli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityMifoli.protect.md) 
+
+### [Mifoli.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityMifoli.private.md) 
+
+### [Mifoli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityMifoli.personal.md) 
+
+### [Mifoli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Fier\CityMifoli.secret.md)
+

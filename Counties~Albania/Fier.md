@@ -40,11 +40,16 @@ markerFolder: ./Fier/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Fier|Fier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Fier.public|Fier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Fier.internal|Fier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Fier.protect|Fier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Fier.private|Fier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Fier.personal|Fier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Fier.secret|Fier.secret]] 
+
+### [Fier.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaFier.public.md) 
+
+### [Fier.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaFier.internal.md) 
+
+### [Fier.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaFier.protect.md) 
+
+### [Fier.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaFier.private.md) 
+
+### [Fier.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaFier.personal.md) 
+
+### [Fier.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaFier.secret.md)
 

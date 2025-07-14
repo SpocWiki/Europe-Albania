@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Klisura|Klisura]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Klisura.public|Klisura.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Klisura.internal|Klisura.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Klisura.protect|Klisura.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Klisura.private|Klisura.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Klisura.personal|Klisura.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Klisura.secret|Klisura.secret]] 
+
+### [Klisura.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityKlisura.public.md) 
+
+### [Klisura.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityKlisura.internal.md) 
+
+### [Klisura.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityKlisura.protect.md) 
+
+### [Klisura.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityKlisura.private.md) 
+
+### [Klisura.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityKlisura.personal.md) 
+
+### [Klisura.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityKlisura.secret.md)
+

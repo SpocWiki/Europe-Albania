@@ -40,11 +40,16 @@ markerFolder: ./Vlorë/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë|Vlorë]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.public|Vlorë.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.internal|Vlorë.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.protect|Vlorë.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.private|Vlorë.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.personal|Vlorë.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.secret|Vlorë.secret]] 
+
+### [Vlorë.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaVlorë.public.md) 
+
+### [Vlorë.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaVlorë.internal.md) 
+
+### [Vlorë.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaVlorë.protect.md) 
+
+### [Vlorë.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaVlorë.private.md) 
+
+### [Vlorë.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaVlorë.personal.md) 
+
+### [Vlorë.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaVlorë.secret.md)
 

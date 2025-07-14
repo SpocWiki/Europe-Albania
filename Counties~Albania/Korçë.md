@@ -40,11 +40,16 @@ markerFolder: ./Korçë/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë|Korçë]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.public|Korçë.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.internal|Korçë.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.protect|Korçë.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.private|Korçë.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.personal|Korçë.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.secret|Korçë.secret]] 
+
+### [Korçë.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKorçë.public.md) 
+
+### [Korçë.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKorçë.internal.md) 
+
+### [Korçë.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKorçë.protect.md) 
+
+### [Korçë.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKorçë.private.md) 
+
+### [Korçë.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKorçë.personal.md) 
+
+### [Korçë.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaKorçë.secret.md)
 

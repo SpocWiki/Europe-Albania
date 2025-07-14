@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Elbasan|Elbasan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Elbasan.public|Elbasan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Elbasan.internal|Elbasan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Elbasan.protect|Elbasan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Elbasan.private|Elbasan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Elbasan.personal|Elbasan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Elbasan.secret|Elbasan.secret]] 
+
+### [Elbasan.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityElbasan.public.md) 
+
+### [Elbasan.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityElbasan.internal.md) 
+
+### [Elbasan.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityElbasan.protect.md) 
+
+### [Elbasan.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityElbasan.private.md) 
+
+### [Elbasan.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityElbasan.personal.md) 
+
+### [Elbasan.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Elbasan\CityElbasan.secret.md)
+

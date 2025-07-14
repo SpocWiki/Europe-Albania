@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Valona|Valona]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Valona.public|Valona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Valona.internal|Valona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Valona.protect|Valona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Valona.private|Valona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Valona.personal|Valona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Valona.secret|Valona.secret]] 
+
+### [Valona.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityValona.public.md) 
+
+### [Valona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityValona.internal.md) 
+
+### [Valona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityValona.protect.md) 
+
+### [Valona.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityValona.private.md) 
+
+### [Valona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityValona.personal.md) 
+
+### [Valona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityValona.secret.md)
+

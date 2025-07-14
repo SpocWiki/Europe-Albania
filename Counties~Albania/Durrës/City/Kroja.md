@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Kroja|Kroja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Kroja.public|Kroja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Kroja.internal|Kroja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Kroja.protect|Kroja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Kroja.private|Kroja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Kroja.personal|Kroja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Kroja.secret|Kroja.secret]] 
+
+### [Kroja.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKroja.public.md) 
+
+### [Kroja.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKroja.internal.md) 
+
+### [Kroja.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKroja.protect.md) 
+
+### [Kroja.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKroja.private.md) 
+
+### [Kroja.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKroja.personal.md) 
+
+### [Kroja.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Durrës\CityKroja.secret.md)
+

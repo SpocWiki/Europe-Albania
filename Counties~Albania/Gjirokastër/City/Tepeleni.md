@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Tepeleni|Tepeleni]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Tepeleni.public|Tepeleni.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Tepeleni.internal|Tepeleni.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Tepeleni.protect|Tepeleni.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Tepeleni.private|Tepeleni.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Tepeleni.personal|Tepeleni.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Tepeleni.secret|Tepeleni.secret]] 
+
+### [Tepeleni.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityTepeleni.public.md) 
+
+### [Tepeleni.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityTepeleni.internal.md) 
+
+### [Tepeleni.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityTepeleni.protect.md) 
+
+### [Tepeleni.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityTepeleni.private.md) 
+
+### [Tepeleni.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityTepeleni.personal.md) 
+
+### [Tepeleni.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityTepeleni.secret.md)
+

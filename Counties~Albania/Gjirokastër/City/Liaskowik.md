@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Liaskowik|Liaskowik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Liaskowik.public|Liaskowik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Liaskowik.internal|Liaskowik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Liaskowik.protect|Liaskowik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Liaskowik.private|Liaskowik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Liaskowik.personal|Liaskowik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Liaskowik.secret|Liaskowik.secret]] 
+
+### [Liaskowik.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityLiaskowik.public.md) 
+
+### [Liaskowik.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityLiaskowik.internal.md) 
+
+### [Liaskowik.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityLiaskowik.protect.md) 
+
+### [Liaskowik.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityLiaskowik.private.md) 
+
+### [Liaskowik.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityLiaskowik.personal.md) 
+
+### [Liaskowik.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Gjirokastër\CityLiaskowik.secret.md)
+

@@ -128,12 +128,17 @@ Capital :: [[Tirana]]
 [has_place_latitude::40.793] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania|Albania]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Albania.public|Albania.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Albania.internal|Albania.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Albania.protect|Albania.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Albania.private|Albania.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Albania.personal|Albania.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Albania.secret|Albania.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\AlbaniaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\AlbaniaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\AlbaniaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\AlbaniaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\AlbaniaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\AlbaniaReadMe.secret.md)
+

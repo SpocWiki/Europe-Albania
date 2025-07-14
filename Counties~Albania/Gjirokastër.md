@@ -40,11 +40,16 @@ markerFolder: ./Gjirokastër/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Gjirokastër|Gjirokastër]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Gjirokastër.public|Gjirokastër.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Gjirokastër.internal|Gjirokastër.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Gjirokastër.protect|Gjirokastër.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Gjirokastër.private|Gjirokastër.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Gjirokastër.personal|Gjirokastër.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Gjirokastër.secret|Gjirokastër.secret]] 
+
+### [Gjirokastër.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaGjirokastër.public.md) 
+
+### [Gjirokastër.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaGjirokastër.internal.md) 
+
+### [Gjirokastër.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaGjirokastër.protect.md) 
+
+### [Gjirokastër.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaGjirokastër.private.md) 
+
+### [Gjirokastër.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaGjirokastër.personal.md) 
+
+### [Gjirokastër.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~AlbaniaGjirokastër.secret.md)
 

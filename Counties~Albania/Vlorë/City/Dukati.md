@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Dukati|Dukati]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Dukati.public|Dukati.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Dukati.internal|Dukati.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Dukati.protect|Dukati.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Dukati.private|Dukati.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Dukati.personal|Dukati.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Dukati.secret|Dukati.secret]] 
+
+### [Dukati.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDukati.public.md) 
+
+### [Dukati.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDukati.internal.md) 
+
+### [Dukati.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDukati.protect.md) 
+
+### [Dukati.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDukati.private.md) 
+
+### [Dukati.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDukati.personal.md) 
+
+### [Dukati.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDukati.secret.md)
+

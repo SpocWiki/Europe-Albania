@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Droviani|Droviani]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Droviani.public|Droviani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Droviani.internal|Droviani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Droviani.protect|Droviani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Droviani.private|Droviani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Droviani.personal|Droviani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Droviani.secret|Droviani.secret]] 
+
+### [Droviani.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDroviani.public.md) 
+
+### [Droviani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDroviani.internal.md) 
+
+### [Droviani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDroviani.protect.md) 
+
+### [Droviani.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDroviani.private.md) 
+
+### [Droviani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDroviani.personal.md) 
+
+### [Droviani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Vlorë\CityDroviani.secret.md)
+

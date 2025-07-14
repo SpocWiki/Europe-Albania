@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Tapia|Tapia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Tapia.public|Tapia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Tapia.internal|Tapia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Tapia.protect|Tapia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Tapia.private|Tapia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Tapia.personal|Tapia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Tapia.secret|Tapia.secret]] 
+
+### [Tapia.public](/_public/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTapia.public.md) 
+
+### [Tapia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTapia.internal.md) 
+
+### [Tapia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTapia.protect.md) 
+
+### [Tapia.private](/_private/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTapia.private.md) 
+
+### [Tapia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTapia.personal.md) 
+
+### [Tapia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Albania\Counties~Albania\Berat\CityTapia.secret.md)
+
