@@ -1,36 +1,37 @@
 ---
 location:
-- 40.793
-- 19.9565
+  - 40.793
+  - 19.9565
 type: Country
 SpocWebEntityId: 26830
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Albania
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Albania
-- Albanie
-- ألبانيا
-- 阿尔巴尼亚
-- Албания
-- the Republic of Albania
-- la República de Albania
+  - Albania
+  - Albanie
+  - ألبانيا
+  - 阿尔巴尼亚
+  - Албания
+  - the Republic of Albania
+  - la República de Albania
 Languages:
-- sq
-- el
+  - sq
+  - el
 ---
 
 
