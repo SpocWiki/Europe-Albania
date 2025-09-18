@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Dibër
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Dibër/
 markerFolder: ./Dibër/
