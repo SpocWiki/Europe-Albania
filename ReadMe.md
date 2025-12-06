@@ -117,7 +117,7 @@ markerFolder: .//
 [Area-Land::27400] 
 Continent :: [[Europe]]  
 [VehicleCode::AL] 
-Capital :: [[Tirana]]  
+Capital :: [[Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City]]  
 ![[Coat_of_arms_of_Albania.svg|350]] 
 ![[Anthem-Albania.mp3]] 
 ![[Flag_of_Albania.svg|350]] 
