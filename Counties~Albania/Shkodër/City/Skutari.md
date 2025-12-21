@@ -1,16 +1,19 @@
 ---
-location: [42.05,19.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Skutari
+location:
+  - 42.05
+  - 19.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34314
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

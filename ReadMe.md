@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Albania
+  - Albanie
+  - ألبانيا
+  - 阿尔巴尼亚
+  - Албания
+  - the Republic of Albania
+  - la República de Albania
+  - ReadMe
 location:
   - 40.793
   - 19.9565
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Albania
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Albania
-  - Albanie
-  - ألبانيا
-  - 阿尔巴尼亚
-  - Албания
-  - the Republic of Albania
-  - la República de Albania
+publishDate: ''
+expiryDate: ''
 Languages:
   - sq
   - el

@@ -1,16 +1,19 @@
 ---
-location: [40.7,20.3] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tomorica
+location:
+  - 40.7
+  - 20.3
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34900
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Tirona
+  - Tirana,City
 has_id_wikidata: Q19689
 location:
   - 41.33
@@ -29,57 +30,57 @@ demonym:
   - Tiranaise
   - tiranesi
 capital_of:
-  - "[[_Standards/WikiData/WD~Principality_of_Albania,187035]]"
-  - "[[_Standards/WikiData/WD~Tirana_County,229892]]"
+  - '[[_Standards/WikiData/WD~Principality_of_Albania,187035]]'
+  - '[[_Standards/WikiData/WD~Tirana_County,229892]]'
   - "[[_Standards/WikiData/WD~People's_Socialist_Republic_of_Albania,467864]]"
-  - "[[_Standards/WikiData/WD~Albanian_Kingdom,1048340]]"
-  - "[[_Standards/WikiData/WD~Albanian_Republic,1923781]]"
-  - "[[_Standards/WikiData/WD~Tirana_municipality,13037436]]"
-  - "[[_Standards/WikiData/WD~Albania,222]]"
+  - '[[_Standards/WikiData/WD~Albanian_Kingdom,1048340]]'
+  - '[[_Standards/WikiData/WD~Albanian_Republic,1923781]]'
+  - '[[_Standards/WikiData/WD~Tirana_municipality,13037436]]'
+  - '[[_Standards/WikiData/WD~Albania,222]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_World_Atlas,757187]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+  - '[[_Standards/WikiData/WD~The_World_Atlas,757187]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Lanë,1274495]]"
-  - "[[_Standards/WikiData/WD~Tiranë,3303567]]"
+  - '[[_Standards/WikiData/WD~Lanë,1274495]]'
+  - '[[_Standards/WikiData/WD~Tiranë,3303567]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~Communes_of_Albania,5154045]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~Communes_of_Albania,5154045]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Tirana_Clock_Tower,2474224]]"
-  - "[[_Standards/WikiData/WD~National_Martyrs_Cemetery_of_Albania,8508918]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Symbols_of_Tirana,3303528]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Tirana,3338831]]"
+  - '[[_Standards/WikiData/WD~Tirana_Clock_Tower,2474224]]'
+  - '[[_Standards/WikiData/WD~National_Martyrs_Cemetery_of_Albania,8508918]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Symbols_of_Tirana,3303528]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Tirana,3338831]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Albania,11038997]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Illyria,21830169]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Tirana,21830919]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Tirana_municipality,13037436]]"
-head_of_government: "[[_Standards/WikiData/WD~Erion_Veliaj,16354049]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Tirana,23583399]]"
-category_for_honorary_citizens_of_entity: "[[_Standards/WikiData/WD~Q32031878,32031878]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Tirana,106020247]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Albania,11038997]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Illyria,21830169]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Tirana,21830919]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Tirana_municipality,13037436]]'
+head_of_government: '[[_Standards/WikiData/WD~Erion_Veliaj,16354049]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Tirana,23583399]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q32031878,32031878]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Tirana,106020247]]'
 inception: 1614-01-01T00:00:00Z
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Skopje,384]]"
-  - "[[_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[_Standards/WikiData/WD~Verona,2028]]"
-  - "[[_Standards/WikiData/WD~Florence,2044]]"
-  - "[[_Standards/WikiData/WD~Lublin,37333]]"
-  - "[[_Standards/WikiData/WD~Kharkiv,42308]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-official_language: "[[_Standards/WikiData/WD~Albanian,8748]]"
-country: "[[_Standards/WikiData/WD~Albania,222]]"
+  - '[[_Standards/WikiData/WD~Skopje,384]]'
+  - '[[_Standards/WikiData/WD~Kyiv,1899]]'
+  - '[[_Standards/WikiData/WD~Verona,2028]]'
+  - '[[_Standards/WikiData/WD~Florence,2044]]'
+  - '[[_Standards/WikiData/WD~Lublin,37333]]'
+  - '[[_Standards/WikiData/WD~Kharkiv,42308]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+official_language: '[[_Standards/WikiData/WD~Albanian,8748]]'
+country: '[[_Standards/WikiData/WD~Albania,222]]'
 elevation_above_sea_level: 110
 area: 41.8
-local_dialing_code: "4"
+local_dialing_code: 4
 population: 418495
-WOEID: "472135"
+WOEID: 472135
 licence_plate_code: TR
-OmegaWiki_Defined_Meaning: "362471"
+OmegaWiki_Defined_Meaning: 362471
 Commons_gallery: Tirana
 Commons_category: Tirana
 coordinate_location: Point(19.817777777 41.328888888)
@@ -94,7 +95,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tirana%20Wikivoy
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Tirana%2C%20Albania%20%28Copernicus%202025-06-02%29.png
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/TiranaPhotoCollage.jpg
 official_website: https://www.tirana.al
-ISNI: "0000000114319723"
+ISNI: 0000000114319723
 postal_code: 1001–1028
 ---
 
