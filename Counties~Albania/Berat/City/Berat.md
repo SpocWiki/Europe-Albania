@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.95
 dv_has_place_latitude: 40.72
-dv_name: Berat
+dv_has_name_: Berat
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

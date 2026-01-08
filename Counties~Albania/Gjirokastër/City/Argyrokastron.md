@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.17
 dv_has_place_latitude: 40.07
-dv_name: Argyrokastron
+dv_has_name_: Argyrokastron
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

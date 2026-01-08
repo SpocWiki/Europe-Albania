@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.5
 dv_has_place_latitude: 41.33
-dv_name: Schiak
+dv_has_name_: Schiak
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

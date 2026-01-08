@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.45
 dv_has_place_latitude: 41.3
-dv_name: Durazzo
+dv_has_name_: Durazzo
 dv_Country: "[[../../Albania]]"
 ---
 #is_a_/Place  

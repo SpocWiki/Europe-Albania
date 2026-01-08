@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.83
 dv_has_place_latitude: 41.33
-dv_name: Tirana
+dv_has_name_: Tirana
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Tirana,19689|WD~Tirana,19689]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Tirana,19689|WD~Tirana,19689]]"

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.35
 dv_has_place_latitude: 40.22
-dv_name: Premeti
+dv_has_name_: Premeti
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

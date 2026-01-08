@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.75
 dv_has_place_latitude: 41.33
-dv_name: Kroja
+dv_has_name_: Kroja
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.17
 dv_has_place_latitude: 41.28
-dv_name: Singjerc
+dv_has_name_: Singjerc
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

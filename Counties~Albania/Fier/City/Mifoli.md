@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.47
 dv_has_place_latitude: 40.65
-dv_name: Mifoli
+dv_has_name_: Mifoli
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

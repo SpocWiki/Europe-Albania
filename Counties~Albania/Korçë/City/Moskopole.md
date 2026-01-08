@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.63
 dv_has_place_latitude: 40.7
-dv_name: Moskopole
+dv_has_name_: Moskopole
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

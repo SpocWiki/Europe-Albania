@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.58
 dv_has_place_latitude: 41.17
-dv_name: Kavaja
+dv_has_name_: Kavaja
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

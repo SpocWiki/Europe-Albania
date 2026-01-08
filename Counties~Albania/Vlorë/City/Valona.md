@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.5
 dv_has_place_latitude: 40.48
-dv_name: Valona
+dv_has_name_: Valona
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

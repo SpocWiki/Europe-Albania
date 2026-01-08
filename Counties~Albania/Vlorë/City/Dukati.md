@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.55
 dv_has_place_latitude: 40.27
-dv_name: Dukati
+dv_has_name_: Dukati
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

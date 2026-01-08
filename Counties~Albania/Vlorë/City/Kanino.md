@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.55
 dv_has_place_latitude: 40.47
-dv_name: Kanino
+dv_has_name_: Kanino
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

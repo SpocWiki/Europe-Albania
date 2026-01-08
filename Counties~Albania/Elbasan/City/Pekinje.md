@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.75
 dv_has_place_latitude: 41.08
-dv_name: Pekinje
+dv_has_name_: Pekinje
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

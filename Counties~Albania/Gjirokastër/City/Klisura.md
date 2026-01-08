@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.18
 dv_has_place_latitude: 40.33
-dv_name: Klisura
+dv_has_name_: Klisura
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

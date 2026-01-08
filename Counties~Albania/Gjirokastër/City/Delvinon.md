@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.18
 dv_has_place_latitude: 39.97
-dv_name: Delvinon
+dv_has_name_: Delvinon
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

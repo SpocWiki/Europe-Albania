@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.92
 dv_has_place_latitude: 40.78
-dv_name: Tapia
+dv_has_name_: Tapia
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

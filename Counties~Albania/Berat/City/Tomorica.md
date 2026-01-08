@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.3
 dv_has_place_latitude: 40.7
-dv_name: Tomorica
+dv_has_name_: Tomorica
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  

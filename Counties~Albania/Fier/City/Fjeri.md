@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.55
 dv_has_place_latitude: 40.73
-dv_name: Fjeri
+dv_has_name_: Fjeri
 dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
