@@ -40,17 +40,17 @@ markerFolder: ./Shkodër/
 
 ## Confidential Links & Embeds: 
 
-### [Shkodër](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër|Shkodër]] 
 
-### [Shkodër.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.public|Shkodër.public]] 
 
-### [Shkodër.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.internal|Shkodër.internal]] 
 
-### [Shkodër.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.protect|Shkodër.protect]] 
 
-### [Shkodër.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.private|Shkodër.private]] 
 
-### [Shkodër.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.personal|Shkodër.personal]] 
 
-### [Shkodër.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër.secret|Shkodër.secret]] 
 

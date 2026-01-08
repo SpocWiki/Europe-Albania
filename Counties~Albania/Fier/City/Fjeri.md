@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30177
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.55
+dv_has_place_latitude: 40.73
+dv_name: Fjeri
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.55] 
-[has_place_latitude::40.73] 
-[name::Fjeri] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fjeri](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri|Fjeri]] 
 
-### [Fjeri.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.public|Fjeri.public]] 
 
-### [Fjeri.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.internal|Fjeri.internal]] 
 
-### [Fjeri.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.protect|Fjeri.protect]] 
 
-### [Fjeri.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.private|Fjeri.private]] 
 
-### [Fjeri.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.personal|Fjeri.personal]] 
 
-### [Fjeri.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Fjeri.secret|Fjeri.secret]] 
 

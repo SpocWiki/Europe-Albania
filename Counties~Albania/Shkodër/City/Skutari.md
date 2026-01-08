@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34314
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.5
+dv_has_place_latitude: 42.05
+dv_name: Skutari
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.5] 
-[has_place_latitude::42.05] 
-[name::Skutari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skutari](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari|Skutari]] 
 
-### [Skutari.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.public|Skutari.public]] 
 
-### [Skutari.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.internal|Skutari.internal]] 
 
-### [Skutari.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.protect|Skutari.protect]] 
 
-### [Skutari.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.private|Skutari.private]] 
 
-### [Skutari.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.personal|Skutari.personal]] 
 
-### [Skutari.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Shkodër/City/Skutari.secret|Skutari.secret]] 
 

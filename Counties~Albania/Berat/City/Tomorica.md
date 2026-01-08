@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34900
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.3
+dv_has_place_latitude: 40.7
+dv_name: Tomorica
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.3] 
-[has_place_latitude::40.7] 
-[name::Tomorica] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tomorica](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica|Tomorica]] 
 
-### [Tomorica.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.public|Tomorica.public]] 
 
-### [Tomorica.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.internal|Tomorica.internal]] 
 
-### [Tomorica.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.protect|Tomorica.protect]] 
 
-### [Tomorica.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.private|Tomorica.private]] 
 
-### [Tomorica.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.personal|Tomorica.personal]] 
 
-### [Tomorica.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Berat/City/Tomorica.secret|Tomorica.secret]] 
 

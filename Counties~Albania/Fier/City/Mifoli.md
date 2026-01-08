@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32473
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.47
+dv_has_place_latitude: 40.65
+dv_name: Mifoli
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.47] 
-[has_place_latitude::40.65] 
-[name::Mifoli] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mifoli](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli|Mifoli]] 
 
-### [Mifoli.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.public|Mifoli.public]] 
 
-### [Mifoli.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.internal|Mifoli.internal]] 
 
-### [Mifoli.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.protect|Mifoli.protect]] 
 
-### [Mifoli.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.private|Mifoli.private]] 
 
-### [Mifoli.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.personal|Mifoli.personal]] 
 
-### [Mifoli.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Mifoli.secret|Mifoli.secret]] 
 

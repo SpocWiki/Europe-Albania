@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30308
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.55
+dv_has_place_latitude: 40.17
+dv_name: Furka
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.55] 
-[has_place_latitude::40.17] 
-[name::Furka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Furka](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka|Furka]] 
 
-### [Furka.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.public|Furka.public]] 
 
-### [Furka.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.internal|Furka.internal]] 
 
-### [Furka.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.protect|Furka.protect]] 
 
-### [Furka.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.private|Furka.private]] 
 
-### [Furka.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.personal|Furka.personal]] 
 
-### [Furka.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Furka.secret|Furka.secret]] 
 

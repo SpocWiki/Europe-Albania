@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31976
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.25
+dv_has_place_latitude: 40.03
+dv_name: Libochovon
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.25] 
-[has_place_latitude::40.03] 
-[name::Libochovon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Libochovon](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon|Libochovon]] 
 
-### [Libochovon.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.public|Libochovon.public]] 
 
-### [Libochovon.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.internal|Libochovon.internal]] 
 
-### [Libochovon.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.protect|Libochovon.protect]] 
 
-### [Libochovon.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.private|Libochovon.private]] 
 
-### [Libochovon.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.personal|Libochovon.personal]] 
 
-### [Libochovon.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Libochovon.secret|Libochovon.secret]] 
 

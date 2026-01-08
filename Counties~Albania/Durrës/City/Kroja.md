@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31655
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.75
+dv_has_place_latitude: 41.33
+dv_name: Kroja
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.75] 
-[has_place_latitude::41.33] 
-[name::Kroja] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kroja](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja|Kroja]] 
 
-### [Kroja.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.public|Kroja.public]] 
 
-### [Kroja.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.internal|Kroja.internal]] 
 
-### [Kroja.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.protect|Kroja.protect]] 
 
-### [Kroja.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.private|Kroja.private]] 
 
-### [Kroja.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.personal|Kroja.personal]] 
 
-### [Kroja.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kroja.secret|Kroja.secret]] 
 

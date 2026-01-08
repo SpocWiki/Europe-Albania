@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29890
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.27
+dv_has_place_latitude: 39.83
+dv_name: Droviani
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.27] 
-[has_place_latitude::39.83] 
-[name::Droviani] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Droviani](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani|Droviani]] 
 
-### [Droviani.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.public|Droviani.public]] 
 
-### [Droviani.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.internal|Droviani.internal]] 
 
-### [Droviani.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.protect|Droviani.protect]] 
 
-### [Droviani.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.private|Droviani.private]] 
 
-### [Droviani.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.personal|Droviani.personal]] 
 
-### [Droviani.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Droviani.secret|Droviani.secret]] 
 

@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.83
+dv_has_place_latitude: 41.33
+dv_name: Tirana
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Tirana,19689|WD~Tirana,19689]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Tirana,19689|WD~Tirana,19689]]"
+
 has_time_started: 1614-01-01 
 aliases:
   - Tirona
@@ -103,15 +111,15 @@ postal_code: 1001–1028
 # [[Tirana,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.83] 
-[has_place_latitude::41.33] 
-[name::Tirana] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Albania]]  
 [StateId::] 
 [Population:: 418495] 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Tirana,19689|WD~Tirana,19689]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -165,17 +173,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tirana](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Tirana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City|Tirana,City]] 
 
-### [Tirana.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Tirana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City.public|Tirana,City.public]] 
 
-### [Tirana.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Tirana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City.internal|Tirana,City.internal]] 
 
-### [Tirana.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Tirana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City.protect|Tirana,City.protect]] 
 
-### [Tirana.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Tirana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City.private|Tirana,City.private]] 
 
-### [Tirana.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Tirana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City.personal|Tirana,City.personal]] 
 
-### [Tirana.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Tirana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City.secret|Tirana,City.secret]] 
 

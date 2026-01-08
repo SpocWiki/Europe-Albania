@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34812
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.05
+dv_has_place_latitude: 40.32
+dv_name: Tepeleni
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.05] 
-[has_place_latitude::40.32] 
-[name::Tepeleni] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tepeleni](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni|Tepeleni]] 
 
-### [Tepeleni.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.public|Tepeleni.public]] 
 
-### [Tepeleni.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.internal|Tepeleni.internal]] 
 
-### [Tepeleni.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.protect|Tepeleni.protect]] 
 
-### [Tepeleni.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.private|Tepeleni.private]] 
 
-### [Tepeleni.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.personal|Tepeleni.personal]] 
 
-### [Tepeleni.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Tepeleni.secret|Tepeleni.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31574
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.75
+dv_has_place_latitude: 40.67
+dv_name: Koritza
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.75] 
-[has_place_latitude::40.67] 
-[name::Koritza] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koritza](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza|Koritza]] 
 
-### [Koritza.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.public|Koritza.public]] 
 
-### [Koritza.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.internal|Koritza.internal]] 
 
-### [Koritza.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.protect|Koritza.protect]] 
 
-### [Koritza.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.private|Koritza.private]] 
 
-### [Koritza.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.personal|Koritza.personal]] 
 
-### [Koritza.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Korçë/City/Koritza.secret|Koritza.secret]] 
 

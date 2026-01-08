@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33511
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.35
+dv_has_place_latitude: 40.22
+dv_name: Premeti
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.35] 
-[has_place_latitude::40.22] 
-[name::Premeti] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Premeti](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti|Premeti]] 
 
-### [Premeti.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.public|Premeti.public]] 
 
-### [Premeti.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.internal|Premeti.internal]] 
 
-### [Premeti.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.protect|Premeti.protect]] 
 
-### [Premeti.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.private|Premeti.private]] 
 
-### [Premeti.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.personal|Premeti.personal]] 
 
-### [Premeti.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Premeti.secret|Premeti.secret]] 
 

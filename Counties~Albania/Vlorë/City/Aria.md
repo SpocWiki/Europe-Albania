@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28867
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.47
+dv_has_place_latitude: 40.52
+dv_name: Aria
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.47] 
-[has_place_latitude::40.52] 
-[name::Aria] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aria](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria|Aria]] 
 
-### [Aria.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.public|Aria.public]] 
 
-### [Aria.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.internal|Aria.internal]] 
 
-### [Aria.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.protect|Aria.protect]] 
 
-### [Aria.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.private|Aria.private]] 
 
-### [Aria.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.personal|Aria.personal]] 
 
-### [Aria.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Aria.secret|Aria.secret]] 
 

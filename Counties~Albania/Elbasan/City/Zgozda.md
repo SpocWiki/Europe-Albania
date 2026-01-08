@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35820
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.38
+dv_has_place_latitude: 41.25
+dv_name: Zgozda
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.38] 
-[has_place_latitude::41.25] 
-[name::Zgozda] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zgozda](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda|Zgozda]] 
 
-### [Zgozda.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.public|Zgozda.public]] 
 
-### [Zgozda.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.internal|Zgozda.internal]] 
 
-### [Zgozda.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.protect|Zgozda.protect]] 
 
-### [Zgozda.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.private|Zgozda.private]] 
 
-### [Zgozda.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.personal|Zgozda.personal]] 
 
-### [Zgozda.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Zgozda.secret|Zgozda.secret]] 
 

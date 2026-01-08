@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31361
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.58
+dv_has_place_latitude: 41.17
+dv_name: Kavaja
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.58] 
-[has_place_latitude::41.17] 
-[name::Kavaja] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kavaja](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja|Kavaja]] 
 
-### [Kavaja.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.public|Kavaja.public]] 
 
-### [Kavaja.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.internal|Kavaja.internal]] 
 
-### [Kavaja.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.protect|Kavaja.protect]] 
 
-### [Kavaja.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.private|Kavaja.private]] 
 
-### [Kavaja.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.personal|Kavaja.personal]] 
 
-### [Kavaja.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Kavaja.secret|Kavaja.secret]] 
 

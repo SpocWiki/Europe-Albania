@@ -40,17 +40,17 @@ markerFolder: ./Elbasan/
 
 ## Confidential Links & Embeds: 
 
-### [Elbasan](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan|Elbasan]] 
 
-### [Elbasan.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.public|Elbasan.public]] 
 
-### [Elbasan.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.internal|Elbasan.internal]] 
 
-### [Elbasan.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.protect|Elbasan.protect]] 
 
-### [Elbasan.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.private|Elbasan.private]] 
 
-### [Elbasan.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.personal|Elbasan.personal]] 
 
-### [Elbasan.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan.secret|Elbasan.secret]] 
 

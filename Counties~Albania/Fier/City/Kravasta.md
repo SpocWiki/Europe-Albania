@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31627
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.53
+dv_has_place_latitude: 40.83
+dv_name: Kravasta
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.53] 
-[has_place_latitude::40.83] 
-[name::Kravasta] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kravasta](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta|Kravasta]] 
 
-### [Kravasta.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.public|Kravasta.public]] 
 
-### [Kravasta.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.internal|Kravasta.internal]] 
 
-### [Kravasta.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.protect|Kravasta.protect]] 
 
-### [Kravasta.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.private|Kravasta.private]] 
 
-### [Kravasta.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.personal|Kravasta.personal]] 
 
-### [Kravasta.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Fier/City/Kravasta.secret|Kravasta.secret]] 
 

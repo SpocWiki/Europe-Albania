@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29220
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.63
+dv_has_place_latitude: 41.5
+dv_name: Blanj
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.63] 
-[has_place_latitude::41.5] 
-[name::Blanj] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blanj](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj|Blanj]] 
 
-### [Blanj.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.public|Blanj.public]] 
 
-### [Blanj.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.internal|Blanj.internal]] 
 
-### [Blanj.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.protect|Blanj.protect]] 
 
-### [Blanj.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.private|Blanj.private]] 
 
-### [Blanj.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.personal|Blanj.personal]] 
 
-### [Blanj.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Durrës/City/Blanj.secret|Blanj.secret]] 
 

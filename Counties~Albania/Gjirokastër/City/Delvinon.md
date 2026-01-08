@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29744
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.18
+dv_has_place_latitude: 39.97
+dv_name: Delvinon
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.18] 
-[has_place_latitude::39.97] 
-[name::Delvinon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Delvinon](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon|Delvinon]] 
 
-### [Delvinon.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.public|Delvinon.public]] 
 
-### [Delvinon.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.internal|Delvinon.internal]] 
 
-### [Delvinon.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.protect|Delvinon.protect]] 
 
-### [Delvinon.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.private|Delvinon.private]] 
 
-### [Delvinon.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.personal|Delvinon.personal]] 
 
-### [Delvinon.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Gjirokastër/City/Delvinon.secret|Delvinon.secret]] 
 

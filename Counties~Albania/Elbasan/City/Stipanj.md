@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34571
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.12
+dv_has_place_latitude: 40.97
+dv_name: Stipanj
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.12] 
-[has_place_latitude::40.97] 
-[name::Stipanj] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stipanj](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj|Stipanj]] 
 
-### [Stipanj.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.public|Stipanj.public]] 
 
-### [Stipanj.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.internal|Stipanj.internal]] 
 
-### [Stipanj.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.protect|Stipanj.protect]] 
 
-### [Stipanj.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.private|Stipanj.private]] 
 
-### [Stipanj.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.personal|Stipanj.personal]] 
 
-### [Stipanj.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Elbasan/City/Stipanj.secret|Stipanj.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29919
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.45
+dv_has_place_latitude: 41.3
+dv_name: Durazzo
+dv_Country: "[[../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.45] 
-[has_place_latitude::41.3] 
-[name::Durazzo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Durazzo](/_Standards/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo|Durazzo]] 
 
-### [Durazzo.public](/_public/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.public|Durazzo.public]] 
 
-### [Durazzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.internal|Durazzo.internal]] 
 
-### [Durazzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.protect|Durazzo.protect]] 
 
-### [Durazzo.private](/_private/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.private|Durazzo.private]] 
 
-### [Durazzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.personal|Durazzo.personal]] 
 
-### [Durazzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/City/Durazzo.secret|Durazzo.secret]] 
 

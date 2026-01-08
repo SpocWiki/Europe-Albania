@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31292
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.55
+dv_has_place_latitude: 40.47
+dv_name: Kanino
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.55] 
-[has_place_latitude::40.47] 
-[name::Kanino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kanino](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino|Kanino]] 
 
-### [Kanino.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.public|Kanino.public]] 
 
-### [Kanino.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.internal|Kanino.internal]] 
 
-### [Kanino.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.protect|Kanino.protect]] 
 
-### [Kanino.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.private|Kanino.private]] 
 
-### [Kanino.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.personal|Kanino.personal]] 
 
-### [Kanino.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Kanino.secret|Kanino.secret]] 
 

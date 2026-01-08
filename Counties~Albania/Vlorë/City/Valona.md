@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35193
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.5
+dv_has_place_latitude: 40.48
+dv_name: Valona
+dv_Country: "[[../../../../Albania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.5] 
-[has_place_latitude::40.48] 
-[name::Valona] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Albania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valona](/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona|Valona]] 
 
-### [Valona.public](/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.public|Valona.public]] 
 
-### [Valona.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.internal|Valona.internal]] 
 
-### [Valona.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.protect|Valona.protect]] 
 
-### [Valona.private](/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.private|Valona.private]] 
 
-### [Valona.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.personal|Valona.personal]] 
 
-### [Valona.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Albania/Counties~Albania/Vlorë/City/Valona.secret|Valona.secret]] 
 
