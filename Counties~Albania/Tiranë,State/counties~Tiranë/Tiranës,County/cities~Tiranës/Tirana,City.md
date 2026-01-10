@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.83
 dv_has_place_latitude: 41.33
-dv_has_name_: Tirana
+dv_has_name: Tirana
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Tirana,19689|WD~Tirana,19689]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Tirana,19689|WD~Tirana,19689]]"
@@ -114,7 +114,7 @@ postal_code: 1001–1028
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Albania]]  
 [StateId::] 
