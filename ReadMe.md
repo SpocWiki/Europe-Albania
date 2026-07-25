@@ -186,7 +186,7 @@ dv_UNTERM_Chinese_Formal: 阿尔巴尼亚共和国
 dv_UNTERM_French_Formal: la République d'Albanie
 dv_UNTERM_Russian: Албания
 dv_UNTERM_Russian_Formal: Республика Албания
-dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Albania]]"
 dv_Sub-region_Name: "[[Southern Europe]]"
 dv_Region: 150
@@ -555,7 +555,7 @@ dv_has_:
 dv_is_:
   same_as:
     - "[[/_Standards/WikiData/WD~Albania,222|WD~Albania,222]]"
-    - "[[../../../../WikiData/WD~Albania,222|WD~Albania,222]]"
+    - "[[../../../../../WikiData/WD~Albania,222|WD~Albania,222]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~South/Albania|Albania]]"
     - "[[/_public/Earth/Continent/Europe/Europe~South/Albania.public|Albania.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~South/Albania.internal|Albania.internal]]"
@@ -585,16 +585,16 @@ dv_ISO3: ALB
 dv_has_name_de: Albanien
 dv_Area-Total: 28748
 dv_Area-Land: 27400
-dv_has_place_continent: "[[../../Europe|Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: AL
-dv_Capital: "[[Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City|Tirana,City]]"
+dv_Capital: "[[Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City|Tirana,City]]"
 dv_Alcohol-l: 6.7
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 19.9565
 dv_has_place_latitude: 40.793
 dv_is_same_as:
   - "[[/_Standards/WikiData/WD~Albania,222|WD~Albania,222]]"
-  - "[[../../../../WikiData/WD~Albania,222|WD~Albania,222]]"
+  - "[[../../../../../WikiData/WD~Albania,222|WD~Albania,222]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~South/Albania|Albania]]"
   - "[[/_public/Earth/Continent/Europe/Europe~South/Albania.public|Albania.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~South/Albania.internal|Albania.internal]]"
@@ -689,7 +689,7 @@ located_in_on_physical_feature:
   - "[[/_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]"
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
@@ -1027,7 +1027,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Albania/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -1049,7 +1049,7 @@ defaultZoom: 7
 
 ```leaflet
 id: Albania_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1076,7 +1076,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Albania.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Albania.mp3|Anthem-Albania.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Albania.mp3|Anthem-Albania.mp3]]
 ![[Flag_of_Albania.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
